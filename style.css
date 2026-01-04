@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(235, 226, 99, 1);
+    background-image:url(images/image.png);
+     background-position: center;
+     background-size: 300px 300px;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+        
+}
+
+    h1{
+        text-shadow: 4px 4px 4px grey;
+    }
+
+    nav ul {
+        text-decoration: none !important;
+        text-shadow: 2px 2px 2px grey;
+    }
+
+    h2 {
+        text-shadow: 3px 3px 3px grey;
+    }
+
+    h3 {
+        text-shadow: 2px 2px 2px grey;
+    }
+
+    ul img {
+        width: 150px;
+        height: 150px;
+        vertical-align: middle;
+        border: black 5px solid;
+    }
+    
+    a {
+        text-decoration: none !important;
+        color: inherit;
+    }
+    img {
+        width: 200px;
+        height: 200px;
+        vertical-align: middle;
+    }
+    ul img:hover {
+        transform: scale(1.1);
+        transition: transform 0.3s;
+        border: 10px solid rgb(8, 228, 235);
+    }
