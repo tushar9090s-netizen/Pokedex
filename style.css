@@ -1,6 +1,6 @@
 body {
     background-color: rgba(235, 226, 99, 1);
-    background-image:url(image.png);
+    background-image:url(image.ico);
      background-position: center;
      background-size: 300px 300px;
      background-repeat: no-repeat;
@@ -46,4 +46,5 @@ body {
         transition: transform 0.3s;
         border: 10px solid rgb(8, 228, 235);
     }
+
 
