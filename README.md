@@ -1,4 +1,5 @@
 # Pokedex
-This is a club-induction project. It is my first web development project
-The link to the deployed website is given below:
-[Pokedex-byts] (https://pokedex-byts-first.edgeone.app/)
+This is a club-induction project.<br>
+It is my first web development project.<br>
+The link to the deployed website is given below:<br>
+(https://pokedex-byts-first.edgeone.app/)
